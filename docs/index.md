@@ -1,2 +1,2 @@
-# Hello World
+# Index
 [link](https://fauna.com)
