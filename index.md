@@ -3,4 +3,4 @@
 ## FaunaDB Resources
 
 ### Community FaunaDB Projects
-* Virtual Lollypop: [[Github]](https://github.com/philhawksworth/virtual-lolly) | [[Demo]](https://vlolly.net/)
+* Virtual Lollypop: [[Github]](https://github.com/philhawksworth/virtual-lolly) [[Demo]](https://vlolly.net/)
