@@ -1,6 +1,10 @@
 # Dan @ Fauna's Resources
 ---
 ## FaunaDB Resources
+### HackDay Projects (Not Official Fauna Tools)
+* Fauna Migrate
+FaunaDB Migrate is a tool to help faunadb developers setup theirs app database.
+[[Github]](https://github.com/BrunoQuaresma/faunadb-migrate)
 ---
 ### Community FaunaDB Projects
 * Virtual Lollypop: [[Github]](https://github.com/philhawksworth/virtual-lolly) [[Demo]](https://vlolly.net/)
